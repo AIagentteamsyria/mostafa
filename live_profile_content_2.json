@@ -1,0 +1,350 @@
+{
+    "media_content": {
+        "count": 7,
+        "items": [
+            {
+                "tag": "img",
+                "src": "https://lh3.googleusercontent.com/a/ACg8ocLGOayCkVvSSQlaUb2nj2bVh936Rl8qknx-8M_-MxE15N-RYTE=s64-cc"
+            },
+            {
+                "tag": "img",
+                "src": "https://lh3.googleusercontent.com/a/ACg8ocLGOayCkVvSSQlaUb2nj2bVh936Rl8qknx-8M_-MxE15N-RYTE=s64-cc"
+            },
+            {
+                "tag": "img",
+                "src": "https://www.gstatic.com/aistudio/zero-state/promo_chat_url_context.png"
+            },
+            {
+                "tag": "img",
+                "src": "https://www.gstatic.com/aistudio/zero-state/text_soundswave.png"
+            },
+            {
+                "tag": "img",
+                "src": "https://www.gstatic.com/aistudio/zero-state/blue_blob.png"
+            },
+            {
+                "tag": "img",
+                "src": "https://www.gstatic.com/aistudio/zero-state/horse_in_chat_opt_62x62.png"
+            },
+            {
+                "tag": "img",
+                "src": "https://www.gstatic.com/images/branding/productlogos/googleg/v6/24px.svg"
+            }
+        ]
+    },
+    "interactive_elements": {
+        "count": 57,
+        "items": [
+            {
+                "tag": "a",
+                "text": "Learn more",
+                "selector": "a.glue-cookie-notification-bar__more"
+            },
+            {
+                "tag": "button",
+                "text": "OK, got it",
+                "selector": "button.glue-cookie-notification-bar__accept"
+            },
+            {
+                "tag": "button",
+                "text": "Skip to main content",
+                "selector": "button.skip-content.ng-tns-c1855561043-0"
+            },
+            {
+                "tag": "a",
+                "text": "",
+                "selector": "a.logo-title-wrapper"
+            },
+            {
+                "tag": "a",
+                "text": "mark_chat_unread Chat",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted.active.active-override"
+            },
+            {
+                "tag": "a",
+                "text": "graphic_eq Stream",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "mms Generate Media",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "extension Build",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "history History",
+                "selector": "a.mat-mdc-tooltip-trigger.nav-item.ng-tns-c1268904477-3"
+            },
+            {
+                "tag": "button",
+                "text": "add_to_drive Enable saving",
+                "selector": "button.nav-item.add-to-drive.ng-tns-c1268904477-3.ng-trigger.ng-trigger-fadeInOut"
+            },
+            {
+                "tag": "a",
+                "text": "mark_chat_unread Chat",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted.active.active-override"
+            },
+            {
+                "tag": "a",
+                "text": "graphic_eq Stream",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "mms Generate Media",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "extension Build",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "history History",
+                "selector": "a.mat-mdc-tooltip-trigger.nav-item.ng-tns-c1268904477-2"
+            },
+            {
+                "tag": "button",
+                "text": "add_to_drive Enable saving",
+                "selector": "button.nav-item.add-to-drive.ng-tns-c1268904477-2.ng-trigger.ng-trigger-fadeInOut"
+            },
+            {
+                "tag": "a",
+                "text": "key API Keys",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "bar_chart Usage & Billing",
+                "selector": "a.nav-item.ng-tns-c3039464200-1.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "view_agenda Changelog open_in_new",
+                "selector": "a.nav-item.external-link.ng-tns-c3039464200-1.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "Documentation open_in_new",
+                "selector": "a.nav-item.external-link.ng-tns-c3039464200-1"
+            },
+            {
+                "tag": "button",
+                "text": "key Get API key",
+                "selector": "button.mat-mdc-tooltip-trigger.primary.large"
+            },
+            {
+                "tag": "button",
+                "text": "expand_less",
+                "selector": "button.bottom-toggle-button.ng-tns-c3039464200-1.icon"
+            },
+            {
+                "tag": "button",
+                "text": "menu",
+                "selector": "button.icon"
+            },
+            {
+                "tag": "button",
+                "text": "edit_square",
+                "selector": "button.mat-mdc-tooltip-trigger.icon"
+            },
+            {
+                "tag": "button",
+                "text": "tune",
+                "selector": "button.mat-mdc-tooltip-trigger.icon"
+            },
+            {
+                "tag": "button",
+                "text": "key Get API key",
+                "selector": "button.mat-mdc-tooltip-trigger.primary"
+            },
+            {
+                "tag": "a",
+                "text": "Studio",
+                "selector": "a.top-nav-link.active.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "Dashboard",
+                "selector": "a.top-nav-link.ng-star-inserted"
+            },
+            {
+                "tag": "a",
+                "text": "Documentation open_in_new",
+                "selector": "a.top-nav-link.external.ng-star-inserted"
+            },
+            {
+                "tag": "button",
+                "text": "settings",
+                "selector": "button.mat-mdc-menu-trigger.mat-mdc-tooltip-trigger.settings-menu-button.icon.ng-star-inserted"
+            },
+            {
+                "tag": "button",
+                "text": "assignment",
+                "selector": "button.mat-mdc-tooltip-trigger.icon.ng-star-inserted"
+            },
+            {
+                "tag": "button",
+                "text": "code",
+                "selector": "button.mat-mdc-tooltip-trigger.icon.ng-star-inserted"
+            },
+            {
+                "tag": "button",
+                "text": "share",
+                "selector": "button.mat-mdc-tooltip-trigger.icon.ng-star-inserted"
+            },
+            {
+                "tag": "button",
+                "text": "save",
+                "selector": "button.mat-mdc-tooltip-trigger.icon.ng-star-inserted"
+            },
+            {
+                "tag": "button",
+                "text": "compare_arrows",
+                "selector": "button.mat-mdc-tooltip-trigger.compare-button.icon.ng-star-inserted"
+            },
+            {
+                "tag": "button",
+                "text": "refresh",
+                "selector": "button.mat-mdc-tooltip-trigger.icon.ng-star-inserted"
+            },
+            {
+                "tag": "button",
+                "text": "more_vert",
+                "selector": "button.mat-mdc-menu-trigger.mat-mdc-tooltip-trigger.icon.ng-star-inserted"
+            },
+            {
+                "tag": "textarea",
+                "text": "",
+                "selector": "textarea.textarea.v3-font-body.ng-untouched.ng-pristine.ng-valid"
+            },
+            {
+                "tag": "button",
+                "text": "add_circle",
+                "selector": "button.mat-mdc-menu-trigger.mat-mdc-tooltip-trigger.icon"
+            },
+            {
+                "tag": "button",
+                "text": "Run Ctrl keyboard_return",
+                "selector": "button.mat-mdc-tooltip-trigger.run-button.ng-tns-c2236899353-6.ng-trigger.ng-trigger-submit.large.disabled.no-timer"
+            },
+            {
+                "tag": "button",
+                "text": "reset_settings",
+                "selector": "#resetSettingsBtn"
+            },
+            {
+                "tag": "button",
+                "text": "close",
+                "selector": "button.icon"
+            },
+            {
+                "tag": "input",
+                "text": "",
+                "selector": "input.mdc-slider__input"
+            },
+            {
+                "tag": "input",
+                "text": "",
+                "selector": "input.v3-font-label.manual-input"
+            },
+            {
+                "tag": "button",
+                "text": "",
+                "selector": "#mat-mdc-slide-toggle-0-button"
+            },
+            {
+                "tag": "button",
+                "text": "",
+                "selector": "#mat-mdc-slide-toggle-1-button"
+            },
+            {
+                "tag": "button",
+                "text": "expand_more",
+                "selector": "button.expand-icon.icon"
+            },
+            {
+                "tag": "button",
+                "text": "",
+                "selector": "#mat-mdc-slide-toggle-2-button"
+            },
+            {
+                "tag": "button",
+                "text": "Edit",
+                "selector": "button.borderless.ng-star-inserted"
+            },
+            {
+                "tag": "button",
+                "text": "",
+                "selector": "#mat-mdc-slide-toggle-3-button"
+            },
+            {
+                "tag": "button",
+                "text": "",
+                "selector": "#mat-mdc-slide-toggle-4-button"
+            },
+            {
+                "tag": "button",
+                "text": "Edit",
+                "selector": "button.edit-function-declarations-button.borderless"
+            },
+            {
+                "tag": "button",
+                "text": "",
+                "selector": "#mat-mdc-slide-toggle-5-button"
+            },
+            {
+                "tag": "button",
+                "text": "",
+                "selector": "#mat-mdc-slide-toggle-6-button"
+            },
+            {
+                "tag": "button",
+                "text": "expand_more",
+                "selector": "button.expand-icon.icon"
+            },
+            {
+                "tag": "button",
+                "text": "tune",
+                "selector": "button.mat-mdc-tooltip-trigger.ng-tns-c2308221141-4.icon.active"
+            },
+            {
+                "tag": "button",
+                "text": "gallery_thumbnail",
+                "selector": "button.mat-mdc-tooltip-trigger.ng-tns-c2308221141-4.icon.ng-star-inserted"
+            }
+        ]
+    },
+    "main_texts": {
+        "count": 20,
+        "items": [
+            "Google AI Studio uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. Learn more .",
+            "Function calling",
+            "Live audio-to-audio dialog",
+            "Native speech generation",
+            "Generate a high school revision guide on quantum computing",
+            "URL context tool",
+            "Google AI Studio uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic.",
+            "Chat Prompt assignment code share save compare_arrows refresh more_vert Generate a high school revision guide on quantum computing keyboard_tab add_circle Run Ctrl keyboard_return What's new URL context tool Fetch information from web links Native speech generation Generate high quality text to speech with Gemini Live audio-to-audio dialog Try Gemini's natural, real-time dialog with audio and video inputs Native image generation Interleaved text-and-image generation with Gemini 2.0 Flash Run settings reset_settings close Gemini 2.5 Pro Token count 0 / 1,048,576 Temperature Media Resolution Default Thinking Thinking mode Set thinking budget expand_more Tools Structured output Edit Code execution Function calling Edit Grounding with Google Search Source: Google Search URL context expand_more Advanced settings tune gallery_thumbnail",
+            "Source: Google Search",
+            "Interleaved text-and-image generation with Gemini 2.0 Flash",
+            "Generate high quality text to speech with Gemini",
+            "Try Gemini's natural, real-time dialog with audio and video inputs",
+            "Structured output",
+            "Media Resolution",
+            "Native image generation",
+            "Generate a high school revision guide on quantum computing keyboard_tab",
+            "Fetch information from web links",
+            "Grounding with Google Search",
+            "Set thinking budget",
+            "Advanced settings"
+        ]
+    }
+}
